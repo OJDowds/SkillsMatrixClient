@@ -1,0 +1,114 @@
+[
+  {
+    "skillId": 1,
+    "skillUserName": "Dave",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 2,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 3,
+    "skillUserName": "Sarah",
+    "skillName": "Surfing",
+    "skillCode": "SU-0001",
+    "skillLevel": "1",
+    "skillCategory": "Activity"
+  },
+  {
+    "skillId": 4,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 5,
+    "skillUserName": "James",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 6,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 6,
+    "skillUserName": "James",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 7,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 7,
+    "skillUserName": "James",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 9,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 10,
+    "skillUserName": "James",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 11,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 12,
+    "skillUserName": "James",
+    "skillName": "Python",
+    "skillCode": "PY-0001",
+    "skillLevel": "1",
+    "skillCategory": "Coding"
+  },
+  {
+    "skillId": 13,
+    "skillUserName": "James",
+    "skillName": "C#",
+    "skillCode": "C#-0003",
+    "skillLevel": "3",
+    "skillCategory": "Coding"
+  }
+  ]
